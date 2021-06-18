@@ -27,6 +27,8 @@ What are the midterm and final exams to check for success?
 
 ## References
 - https://hpac.cs.umu.se/teaching/sem-mus-17/Reports/Madathil.pdf
+- http://ceur-ws.org/Vol-2225/paper2.pdf
+- http://make.cs.nthu.edu.tw/makeWeb/alp/alp_paper/A%20Music%20Recommendation%20System%20based%20on%20Music%20and%20User%20Grouping.pdf
 
 
 
