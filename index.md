@@ -22,6 +22,9 @@
 - There should not be any costs other than the time our team puts into the project. The project will take the rest of the semester (~1.5 months).
 What are the midterm and final exams to check for success?
 
+## What are the mid-term and final “exams” to check for success?
+- For our midterm we would like to have a baseline clustering algorithm for our dataset complete and for our final exam we would like to have the whole project complete with a short run time and no errors(i.e. recommending an active artist in the proper genre).
+
 ## References
 - https://hpac.cs.umu.se/teaching/sem-mus-17/Reports/Madathil.pdf
 
