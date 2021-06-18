@@ -60,4 +60,4 @@ What are the midterm and final exams to check for success?
 - https://hpac.cs.umu.se/teaching/sem-mus-17/Reports/Madathil.pdf
 
 
-![image](https://user-images.githubusercontent.com/82124162/122602319-9fa7f100-d040-11eb-93ab-f93f777eed20.png)
+
