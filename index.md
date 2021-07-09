@@ -35,14 +35,14 @@ What are the midterm and final exams to check for success?
 # Spotify Recommender Midterm Report
 
 ## Summary Figures
-<img width="435" alt="Screen Shot 2021-07-09 at 3 21 14 PM" src="https://user-images.githubusercontent.com/82124162/125127985-5ab92c80-e0cb-11eb-9464-05b07512b0ee.png"> <img width="438" alt="Screen Shot 2021-07-09 at 3 21 03 PM" src="https://user-images.githubusercontent.com/82124162/125127988-5b51c300-e0cb-11eb-8784-eca8e02b297d.png">
-<img width="432" alt="Screen Shot 2021-07-09 at 3 20 59 PM" src="https://user-images.githubusercontent.com/82124162/125127994-5b51c300-e0cb-11eb-9d65-39d0987ab7e3.png">
-<img width="487" alt="Screen Shot 2021-07-09 at 3 20 53 PM" src="https://user-images.githubusercontent.com/82124162/125127995-5bea5980-e0cb-11eb-90f7-c979fa1b68f8.png">
-<img width="437" alt="Screen Shot 2021-07-09 at 3 20 43 PM" src="https://user-images.githubusercontent.com/82124162/125127997-5bea5980-e0cb-11eb-977c-00b6ef6402c0.png">
-<img width="404" alt="Screen Shot 2021-07-09 at 3 20 38 PM" src="https://user-images.githubusercontent.com/82124162/125127998-5c82f000-e0cb-11eb-8153-3eefabed9a1c.png">
-<img width="455" alt="Screen Shot 2021-07-09 at 3 20 33 PM" src="https://user-images.githubusercontent.com/82124162/125127999-5c82f000-e0cb-11eb-8d73-ac94636ea91d.png">
-<img width="453" alt="Screen Shot 2021-07-09 at 3 20 27 PM" src="https://user-images.githubusercontent.com/82124162/125128000-5d1b8680-e0cb-11eb-8a03-0ac5f1ca64d3.png">
-<img width="449" alt="Screen Shot 2021-07-09 at 3 20 22 PM" src="https://user-images.githubusercontent.com/82124162/125128001-5d1b8680-e0cb-11eb-8cfe-ee438de574dc.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 21 14 PM" src="https://user-images.githubusercontent.com/82124162/125127985-5ab92c80-e0cb-11eb-9464-05b07512b0ee.png"> <img width="400" alt="Screen Shot 2021-07-09 at 3 21 03 PM" src="https://user-images.githubusercontent.com/82124162/125127988-5b51c300-e0cb-11eb-8784-eca8e02b297d.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 59 PM" src="https://user-images.githubusercontent.com/82124162/125127994-5b51c300-e0cb-11eb-9d65-39d0987ab7e3.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 53 PM" src="https://user-images.githubusercontent.com/82124162/125127995-5bea5980-e0cb-11eb-90f7-c979fa1b68f8.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 43 PM" src="https://user-images.githubusercontent.com/82124162/125127997-5bea5980-e0cb-11eb-977c-00b6ef6402c0.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 38 PM" src="https://user-images.githubusercontent.com/82124162/125127998-5c82f000-e0cb-11eb-8153-3eefabed9a1c.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 33 PM" src="https://user-images.githubusercontent.com/82124162/125127999-5c82f000-e0cb-11eb-8d73-ac94636ea91d.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 27 PM" src="https://user-images.githubusercontent.com/82124162/125128000-5d1b8680-e0cb-11eb-8a03-0ac5f1ca64d3.png">
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 22 PM" src="https://user-images.githubusercontent.com/82124162/125128001-5d1b8680-e0cb-11eb-8cfe-ee438de574dc.png">
 
 ## Introduction/Background
 As shown above we have histograms outlining the distribution of the tracks by attribute. Using this above information, we want to determine which components are useful and which ones are not. Based on those results we will then use PCA to perform dimensionality reduction to make the data a little cleaner. Our goal is to ultimately design a recommender system using spotify data based on a user input. Our current status is clustering the data into various helpful clusters to determine which tracks would be suitable for the user after obtaining the input data.
