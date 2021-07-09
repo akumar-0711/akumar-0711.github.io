@@ -32,6 +32,14 @@ What are the midterm and final exams to check for success?
 
 
 
+
+
+
+
+
+
+
+
 # Spotify Recommender Midterm Report
 
 ## Summary Figures
