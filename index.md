@@ -33,6 +33,8 @@ What are the midterm and final exams to check for success?
 
 
 # Spotify Recommender Midterm Report
+
+## Summary Figures
 <img width="435" alt="Screen Shot 2021-07-09 at 3 21 14 PM" src="https://user-images.githubusercontent.com/82124162/125127985-5ab92c80-e0cb-11eb-9464-05b07512b0ee.png"> <img width="438" alt="Screen Shot 2021-07-09 at 3 21 03 PM" src="https://user-images.githubusercontent.com/82124162/125127988-5b51c300-e0cb-11eb-8784-eca8e02b297d.png">
 <img width="432" alt="Screen Shot 2021-07-09 at 3 20 59 PM" src="https://user-images.githubusercontent.com/82124162/125127994-5b51c300-e0cb-11eb-9d65-39d0987ab7e3.png">
 <img width="487" alt="Screen Shot 2021-07-09 at 3 20 53 PM" src="https://user-images.githubusercontent.com/82124162/125127995-5bea5980-e0cb-11eb-90f7-c979fa1b68f8.png">
@@ -41,5 +43,14 @@ What are the midterm and final exams to check for success?
 <img width="455" alt="Screen Shot 2021-07-09 at 3 20 33 PM" src="https://user-images.githubusercontent.com/82124162/125127999-5c82f000-e0cb-11eb-8d73-ac94636ea91d.png">
 <img width="453" alt="Screen Shot 2021-07-09 at 3 20 27 PM" src="https://user-images.githubusercontent.com/82124162/125128000-5d1b8680-e0cb-11eb-8a03-0ac5f1ca64d3.png">
 <img width="449" alt="Screen Shot 2021-07-09 at 3 20 22 PM" src="https://user-images.githubusercontent.com/82124162/125128001-5d1b8680-e0cb-11eb-8cfe-ee438de574dc.png">
+
+## Introduction/Background
+As shown above we have histograms outlining the distribution of the tracks by attribute. Using this above information, we want to determine which components are useful and which ones are not. Based on those results we will then use PCA to perform dimensionality reduction to make the data a little cleaner. Our goal is to ultimately design a recommender system using spotify data based on a user input. Our current status is clustering the data into various helpful clusters to determine which tracks would be suitable for the user after obtaining the input data.
+
+## Methods
+We will use K-Means to cluster the datapoints and determine the optimal number of clusters to use moving forward. Also when looking at the graphs above, we want to use components that have a lot of variability so that not all the tracks are potentially recommended even though they are not that similar. For example, we will not be using components such as speechiness or instrumentalness because most of the tracks are in the same range, so it would be difficult to differentiate them. However, components such as valence, energy, and danceability have a more spread out distribution so there is a little more variability and hopefully a more accurate recommendation. Currently, our dataset has numerous dimensions and this has been causing problems. Using the components described earlier, we are going to perform dimensionality reduction using the PCA function in the sklearn library.
+
+## Results/Discussion
+For our final result, we want our recommender system to provide a track that is similar to the tracks that user listens to. This will be determined by looking at components in our dataset (energy, valence, danceability, etc.) and we will statistically determine whether the songs are different or similar. If the songs are similar (i.e. low variation) then the recommender is working properly, if not then the system needs adjustments.
 
 
