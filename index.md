@@ -33,8 +33,7 @@ What are the midterm and final exams to check for success?
 
 
 # Spotify Recommender Midterm Report
-<img width="435" alt="Screen Shot 2021-07-09 at 3 21 14 PM" src="https://user-images.githubusercontent.com/82124162/125127985-5ab92c80-e0cb-11eb-9464-05b07512b0ee.png">
-<img width="438" alt="Screen Shot 2021-07-09 at 3 21 03 PM" src="https://user-images.githubusercontent.com/82124162/125127988-5b51c300-e0cb-11eb-8784-eca8e02b297d.png">
+<img width="435" alt="Screen Shot 2021-07-09 at 3 21 14 PM" src="https://user-images.githubusercontent.com/82124162/125127985-5ab92c80-e0cb-11eb-9464-05b07512b0ee.png"> <img width="438" alt="Screen Shot 2021-07-09 at 3 21 03 PM" src="https://user-images.githubusercontent.com/82124162/125127988-5b51c300-e0cb-11eb-8784-eca8e02b297d.png">
 <img width="432" alt="Screen Shot 2021-07-09 at 3 20 59 PM" src="https://user-images.githubusercontent.com/82124162/125127994-5b51c300-e0cb-11eb-9d65-39d0987ab7e3.png">
 <img width="487" alt="Screen Shot 2021-07-09 at 3 20 53 PM" src="https://user-images.githubusercontent.com/82124162/125127995-5bea5980-e0cb-11eb-90f7-c979fa1b68f8.png">
 <img width="437" alt="Screen Shot 2021-07-09 at 3 20 43 PM" src="https://user-images.githubusercontent.com/82124162/125127997-5bea5980-e0cb-11eb-977c-00b6ef6402c0.png">
