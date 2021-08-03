@@ -61,20 +61,8 @@ After performing K-Means to cluster the datapoints along with dimensionality red
 
 
 ## Results/Discussion
-For our final result, we want our recommender system to provide a track that is similar to the tracks that user listens to. This will be determined by looking at components in our dataset (energy, valence, danceability, etc.) and we will statistically determine whether the songs are different or similar. If the songs are similar (i.e. low variation) then the recommender is working properly, if not then the system needs adjustments.
+Through our implementations of unsupervised and supervised learning methods, we have created a system that can recommend a song with an accuracy that we honestly did not expect. When we say "accuracy" however, we measured accuracy and the accuracy of the 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="400" alt="Screen Shot 2021-07-09 at 3 20 43 PM" src="https://user-images.githubusercontent.com/82124162/125127997-5bea5980-e0cb-11eb-977c-00b6ef6402c0.png">
