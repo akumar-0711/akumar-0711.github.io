@@ -37,7 +37,7 @@ What are the midterm and final exams to check for success?
 
 
 
-# Spotify Recommender Midterm Report
+# Spotify Recommender Final Report
 
 ## Summary Figures
 <img width="400" alt="Screen Shot 2021-07-09 at 3 21 14 PM" src="https://user-images.githubusercontent.com/82124162/125127985-5ab92c80-e0cb-11eb-9464-05b07512b0ee.png"> <img width="400" alt="Screen Shot 2021-07-09 at 3 21 03 PM" src="https://user-images.githubusercontent.com/82124162/125127988-5b51c300-e0cb-11eb-8784-eca8e02b297d.png">
