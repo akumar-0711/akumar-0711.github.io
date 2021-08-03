@@ -63,6 +63,7 @@ After performing K-Means to cluster the datapoints along with dimensionality red
 ## Results/Discussion
 Through our implementations of unsupervised and supervised learning methods, we have created a system that can recommend a song with an accuracy that we honestly did not expect. When we say "accuracy" however, we measured accuracy and the accuracy of the 
 
+![image](https://user-images.githubusercontent.com/85848075/128096477-1ac48d99-19dd-4419-834e-9759772dd62c.png)
 
 
 <img width="400" alt="Screen Shot 2021-07-09 at 3 20 43 PM" src="https://user-images.githubusercontent.com/82124162/125127997-5bea5980-e0cb-11eb-977c-00b6ef6402c0.png">
