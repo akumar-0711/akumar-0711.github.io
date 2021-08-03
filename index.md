@@ -59,10 +59,15 @@ We have created a system to download our data locally and import the important m
 
 After performing K-Means to cluster the datapoints along with dimensionality reduction through the PCA function, we implemented multiple supervised learning techniques and studied their accuracies to choose the best method. The four methods we employed was logistic regression, logistic regression with PCA, logistic regression with SVD, and random forest. We found the logistic regression methods to only return an accuracy of 2.5 - 3%, while running random forest outputted a close to 99% accuracy. 
 
+## Challenges 
+
 
 ## Results/Discussion
 Through our implementations of unsupervised and supervised learning methods, we have created a system that can recommend a song with an accuracy that we honestly did not expect. When we say "accuracy" however, we measured accuracy as the accuracy of the testing data set output from the supervised learning portion compared to the actual results in the training set. 
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/82124162/128097030-47aad6b6-cdbb-4163-93a6-95cea448362b.png">
 
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/82124162/128097231-7b69976c-5b27-44e5-b82e-4dbb6b4e7f78.png">
+
+
+
 
