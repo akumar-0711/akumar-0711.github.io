@@ -61,9 +61,9 @@ After performing K-Means to cluster the datapoints along with dimensionality red
 
 
 ## Results/Discussion
-Through our implementations of unsupervised and supervised learning methods, we have created a system that can recommend a song with an accuracy that we honestly did not expect. When we say "accuracy" however, we measured accuracy and the accuracy of the 
+Through our implementations of unsupervised and supervised learning methods, we have created a system that can recommend a song with an accuracy that we honestly did not expect. When we say "accuracy" however, we measured accuracy as the accuracy of the testing data set output from the supervised learning portion compared to the actual results in the training set. 
 
 ![image](https://user-images.githubusercontent.com/85848075/128096477-1ac48d99-19dd-4419-834e-9759772dd62c.png)
-<img width="467" alt="image" src="![image](
-https://user-images.githubusercontent.com/85848075/128096477-1ac48d99-19dd-4419-834e-9759772dd62c.png)">
+<img width="467" alt="image" src="
+https://user-images.githubusercontent.com/85848075/128096477-1ac48d99-19dd-4419-834e-9759772dd62c.png">
 
