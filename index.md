@@ -66,4 +66,3 @@ Through our implementations of unsupervised and supervised learning methods, we 
 ![image](https://user-images.githubusercontent.com/85848075/128096477-1ac48d99-19dd-4419-834e-9759772dd62c.png)
 
 
-<img width="400" alt="Screen Shot 2021-07-09 at 3 20 43 PM" src="https://user-images.githubusercontent.com/82124162/125127997-5bea5980-e0cb-11eb-977c-00b6ef6402c0.png">
