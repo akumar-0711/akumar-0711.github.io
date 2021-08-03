@@ -1,6 +1,5 @@
 # Spotify Recommender System Proposal
 
-![image](https://user-images.githubusercontent.com/82124162/122603883-1ba33880-d043-11eb-9710-3ab51516c9eb.png)
 
 
 ## Introduction: What are you trying to do? Articulate your objectives using absolutely no jargon.
@@ -22,8 +21,6 @@
 - There should not be any costs other than the time our team puts into the project. The project will take the rest of the semester (~1.5 months).
 What are the midterm and final exams to check for success?
 
-## What are the mid-term and final “exams” to check for success?
-- For our midterm we would like to have a baseline clustering algorithm for our dataset complete and for our final exam we would like to have the whole project complete with a short run time and no errors(i.e. recommending an active artist in the proper genre).
 
 ## References
 - https://hpac.cs.umu.se/teaching/sem-mus-17/Reports/Madathil.pdf
@@ -59,6 +56,9 @@ As shown above we have histograms outlining the distribution of the tracks by at
 
 ## Methods
 We have created a system to download our data locally and import the important metrics of over 500,000 songs into array structures. Additionally, we will use K-Means to cluster the datapoints and determine the optimal number of clusters to use moving forward. This algorithm is used in multiple ways. Firstly, it can be used to find the optimal number of clusters based on our data using the losses curve. Through our experimentation, we have determined that 25 clusters are the optimal number computation-wise, as shown in the optimal clustering losses graph we have created. Additionally, the clusters themselves are the building blocks of our recommendation engine. If a user enjoys one song, then we can recommend another song found in the same cluster as they will be similar. Also when looking at the graphs above, we want to use components that have a lot of variability so that not all the tracks are potentially recommended even though they are not that similar. For example, we will not be using components such as speechiness or instrumentalness because most of the tracks are in the same range, so it would be difficult to differentiate them. However, components such as valence, energy, and danceability have a more spread out distribution so there is a little more variability and hopefully a more accurate recommendation. Currently, our dataset has numerous dimensions and this has been causing problems. Using the components described earlier, we are going to perform dimensionality reduction using the PCA function in the sklearn library.
+
+After performing K-Means to cluster the datapoints along with dimensionality reduction through the PCA function, we implemented multiple supervised learning techniques and studied their accuracies to choose the best method. The four methods we employed was logistic regression, logistic regression with PCA, logistic regression with SVD, and random forest. We found the logistic regression methods to only return an accuracy of 2.5 - 3%, while running random forest outputted a close to 99% accuracy. 
+
 
 ## Results/Discussion
 For our final result, we want our recommender system to provide a track that is similar to the tracks that user listens to. This will be determined by looking at components in our dataset (energy, valence, danceability, etc.) and we will statistically determine whether the songs are different or similar. If the songs are similar (i.e. low variation) then the recommender is working properly, if not then the system needs adjustments.
