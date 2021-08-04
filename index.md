@@ -66,9 +66,6 @@ There were a good number of challenges that we faced throughout the process of c
 ## Results/Discussion
 Through our implementations of unsupervised and supervised learning methods, we have created a system that can recommend a song with an accuracy that we honestly did not expect.  We determined our accuracy by using the clusters we found from the unsupervised learning as the training targets, and then we compared the testing results to the target clusters to determine if the supervised learning properly classified the datapoint or not.
 
-<img width="467" alt="image" src="https://user-images.githubusercontent.com/82124162/128097030-47aad6b6-cdbb-4163-93a6-95cea448362b.png">
-
-<img width="467" alt="image" src="https://user-images.githubusercontent.com/82124162/128097231-7b69976c-5b27-44e5-b82e-4dbb6b4e7f78.png">
 
 <img width = "400" src="https://user-images.githubusercontent.com/82124162/128111174-b766ed5d-d6c5-4bc9-98a6-adf36e409697.png">
 <img width = "400" src="https://user-images.githubusercontent.com/82124162/128109096-329b3c3e-caa9-465d-862e-eb02a935bc86.png">
