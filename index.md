@@ -70,3 +70,4 @@ Through our implementations of unsupervised and supervised learning methods, we 
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/82124162/128097231-7b69976c-5b27-44e5-b82e-4dbb6b4e7f78.png">
 
 
+![image](https://user-images.githubusercontent.com/82124162/128109096-329b3c3e-caa9-465d-862e-eb02a935bc86.png)
