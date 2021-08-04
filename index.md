@@ -1,5 +1,5 @@
 # Spotify Recommender System Report
-
+Anthony Yu, Ashwin Kumar, Harrison O'Neal, Joseph Lee 
 
 
 ## Introduction: What are you trying to do? Articulate your objectives using absolutely no jargon.
