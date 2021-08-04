@@ -48,7 +48,7 @@ What are the midterm and final exams to check for success?
 <img width="400" alt="Screen Shot 2021-07-09 at 3 20 33 PM" src="https://user-images.githubusercontent.com/82124162/125127999-5c82f000-e0cb-11eb-8d73-ac94636ea91d.png">
 <img width="400" alt="Screen Shot 2021-07-09 at 3 20 27 PM" src="https://user-images.githubusercontent.com/82124162/125128000-5d1b8680-e0cb-11eb-8a03-0ac5f1ca64d3.png">
 <img width="400" alt="Screen Shot 2021-07-09 at 3 20 22 PM" src="https://user-images.githubusercontent.com/82124162/125128001-5d1b8680-e0cb-11eb-8cfe-ee438de574dc.png">
-<img width = "400" ![Screenshot (94)](https://user-images.githubusercontent.com/85848075/128109771-28a1c958-1ec6-45a2-adac-19bc877c08da.png)>
+<img width = "400" src="https://user-images.githubusercontent.com/85848075/128109771-28a1c958-1ec6-45a2-adac-19bc877c08da.png">
 
 
 
