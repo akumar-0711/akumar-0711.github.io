@@ -60,7 +60,7 @@ We have created a system to download our data locally and import the important m
 After performing K-Means to cluster the datapoints along with dimensionality reduction, we implemented multiple supervised learning techniques and studied their accuracies to choose the best method. The four methods we employed was linear regression, linear regression with PCA, linear regression with SVD, and random forest. We found the linear regression methods to only return an accuracy of 2.5 - 3%, while running random forest outputted a close to 99% accuracy. 
 
 ## Challenges 
-There were a good number of challenges that we faced throughout the process of creating this system. The dataset to begin with was extremely large, containing thousands of songs along with multiple variables for each of these songs. 
+There were a good number of challenges that we faced throughout the process of creating this system. The dataset to begin with was extremely large, containing thousands of songs along with multiple variables for each of these songs. The supervised learning method of linear regression 
 
 ## Results/Discussion
 Through our implementations of unsupervised and supervised learning methods, we have created a system that can recommend a song with an accuracy that we honestly did not expect.  We determined our accuracy by using the clusters we found from the unsupervised learning as the training targets, and then we compared the testing results to the target clusters to determine if the supervised learning properly classified the datapoint or not.
